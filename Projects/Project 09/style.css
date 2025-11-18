@@ -1,0 +1,54 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Inter,sans-serif;}
+
+.nav{
+  width:90%;
+  margin:auto;
+  padding:20px 0;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+
+.brand{
+  font-size:28px;
+  font-weight:800;
+}
+
+.right{
+  display:flex;
+  align-items:center;
+  gap:28px;
+}
+
+.menu{
+  list-style:none;
+  display:flex;
+  gap:28px;
+}
+
+.menu a{
+  text-decoration:none;
+  color:#0f0f10;
+  font-size:15px;
+  font-weight:500;
+}
+
+/* Buttons */
+.btn{
+  padding:10px 24px;
+  border-radius:28px;
+  font-size:15px;
+  font-weight:600;
+  text-decoration:none;
+  border:2px solid transparent;
+}
+
+.b-out{
+  border-color:#0f0f10;
+  color:#0f0f10;
+}
+
+.b-fill{
+  background:#0f0f10;
+  color:#fff;
+}
