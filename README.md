@@ -7,7 +7,7 @@ Each project focuses on improving UI structure, responsive design, and component
 
 - **Landing Page Layout**
 - **Streaming Platform UI Layout**
-- **Modern Office/Business Website Layout**
+- **Modern Office/Business Website Landing Page**
 
 ## 🎯 Purpose
 
